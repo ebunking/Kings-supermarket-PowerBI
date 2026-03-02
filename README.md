@@ -12,10 +12,14 @@ Dashboards
 This visualization uncovered valuable insights into sales performance, customer behavior, and profitability trends.
 
 Objectives:
-	•	Analyze total revenue and profit performance
-	•	Identify top-performing regions and product categories
-	•	Evaluate sales rep performance by profit and quantity
-	•	Track monthly and yearly profit trends
+
+•	Analyze total revenue and profit performance
+	
+•	Identify top-performing regions and product categories
+	
+•	Evaluate sales rep performance by profit and quantity
+	
+•	Track monthly and yearly profit trends
    
 Key Insights:
 

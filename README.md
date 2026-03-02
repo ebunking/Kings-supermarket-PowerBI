@@ -1,18 +1,29 @@
 # Kings-supermarket-PowerBI
-Kings Supermarket Sales Report (2014-2017) using PowerBI to drive business growth 
+Kings Supermarket Sales and profit Report (2014-2017) using PowerBI to drive business growth 
+
+I developed an interactive Power BI dashboard to analyze 4 years (2014–2017) of supermarket sales data, focusing on revenue performance, profitability trends, regional contributions, and sales representative effectiveness.
+
+Dashboards
+
+![IMG_7876](https://github.com/user-attachments/assets/c40e34ba-b555-49f3-9459-d6e5b1206d43)
+
+![IMG_7877](https://github.com/user-attachments/assets/15b00e10-f69c-401f-8eb4-dbea0bec70af)
+
 This visualization uncovered valuable insights into sales performance, customer behavior, and profitability trends.
 
+Objectives:
+	•	Analyze total revenue and profit performance
+	•	Identify top-performing regions and product categories
+	•	Evaluate sales rep performance by profit and quantity
+	•	Track monthly and yearly profit trends
+   
 Key Insights:
 
-1. Total Revenue: $2.3M from 9,994 transactions
-
-2. Top-Selling Product: Canon imageCLASS 2200 Advanced Copier ($62K)
-
-3. Highest Sales Region: West ($725K, 32% of total sales)
-   
-4. Top Sales Rep by Revenue: Organic ($1.44M)
-
-5. Best Sales Month: October ($352K), showing seasonal trends
+	•	Total revenue reached $2.30M with a total profit of $286.4K
+	•	The West region contributed the highest profit (38%)
+	•	Technology category generated 63% of total profit
+	•	Profit increased consistently from $50K in 2014 to $93K in 2017
+	•	One sales channel (“Organic”) significantly outperformed others in both quantity and profit.
 
 Strategic Recommendations:
 
@@ -26,9 +37,19 @@ Strategic Recommendations:
 
 ✅ Optimize Sales Rep Performance – The “Organic” sales rep significantly outperforms others. Training programs can help underperforming reps improve.
 
-Dashboards
+Skills Demonstrated:
 
-![IMG_7876](https://github.com/user-attachments/assets/c40e34ba-b555-49f3-9459-d6e5b1206d43)
+•	Data cleaning & transformation
+	
+•	DAX measures (Total Revenue, Profit, Growth Trends)
 
-![IMG_7877](https://github.com/user-attachments/assets/15b00e10-f69c-401f-8eb4-dbea0bec70af)
+•	KPI card creation
+	
+•	Trend analysis
+	
+•	Regional and category performance analysis
+	
+•	Interactive slicers (Year & Region filters)
+	
+•	Data storytelling
 
